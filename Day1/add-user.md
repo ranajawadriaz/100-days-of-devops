@@ -1,3 +1,4 @@
+<pre>
 thor@jumphost ~$ ssh banner@stapp03
 The authenticity of host 'stapp03 (172.16.238.12)' can't be established.
 ED25519 key fingerprint is SHA256:9yNV3VppaVnvB73DzNzIBowfhI8wdw9pGXgbAYOQlfg.
@@ -18,3 +19,4 @@ Administrator. It usually boils down to these three things:
 [banner@stapp03 ~]$ getent passwd yousuf
 yousuf:x:1002:1002::/home/yousuf:/sbin/nologin
 [banner@stapp03 ~]$ 
+</pre>
