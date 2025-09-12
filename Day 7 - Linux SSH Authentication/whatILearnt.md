@@ -1,0 +1,1 @@
+Created a public and private key for thor@jumphost and shared its public key with all the other servers available. In this way, thor can now log into other servers without entering those server login passwords.
