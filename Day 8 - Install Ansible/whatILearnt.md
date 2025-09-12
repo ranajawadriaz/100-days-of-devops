@@ -1,0 +1,1 @@
+Installed the ansible tool globlly using the sudo pip3 install ansible==4.9.0 command. Ansible tool is used for automation purposes. Think of it like a remote control for all servers. So, instead of executing commands separately inside servers, we can run a single command using ansible which would be effective in all servers.
