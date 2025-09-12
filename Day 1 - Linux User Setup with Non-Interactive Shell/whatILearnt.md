@@ -1,0 +1,3 @@
+<pre>
+creation of not accessible bot, which behaves as real user to do some tasks, automation or for monitorting. No one can log into this user account using the ssh command.
+</pre>
