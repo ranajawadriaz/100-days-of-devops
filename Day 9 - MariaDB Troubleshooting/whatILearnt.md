@@ -1,0 +1,3 @@
+<pre>
+MariaDB was not working as the database was not initialized. There were no system tables where mariadb would be running so i created the tables and after that i started the mariadb and checked the status, it was good then.
+</pre>
